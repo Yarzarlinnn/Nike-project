@@ -1,0 +1,15 @@
+.nav-logo{
+ width: 100px;
+}
+
+.nav-link{
+    transition: 0.5s;
+}
+.nav-link:hover{
+  color: #5bc5e5;
+  border-bottom: 1px solid cyan;
+}
+
+.nav-btn:hover{
+   color: white;
+}
